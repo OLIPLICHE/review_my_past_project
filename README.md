@@ -3,7 +3,7 @@
 # Project Name
 "review_my_past_project"
 > This is my portfolio-page project I completed during the Admission Trial to enter Microverse. I send it on github to request for a review.
-In this, I am going to review the semantic HTML tags, CSS box model.
+Kindly review the semantic HTML tags, CSS box model.
 
 
 ## Built With
